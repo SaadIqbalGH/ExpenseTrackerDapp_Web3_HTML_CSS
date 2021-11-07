@@ -1,4 +1,4 @@
-### This Expense Tracker DApp can work with mulitple EOAs and keeps track of 'Balance' and 'Transaction' of each etherium account seperately.
+### This Expense Tracker DApp can work with mulitple EOAs and keeps track of 'Balance' and 'Transaction History' of each etherium account seperately.
 - To test the DApp; deploy the smart contract on Truffle Test Network >>> truffle develop (from VSCode terminal)
 - Migrate the contract and replace the contract address with that of yours in the file ExpenseTrackerDapp_Web3_HTML_CSS/dapp/js/configs/contracts_config.js
 @ 
