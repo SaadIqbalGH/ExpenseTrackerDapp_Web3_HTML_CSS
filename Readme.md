@@ -22,5 +22,6 @@ your web3 library is installed now.
 
 8. Add in html page following libs   
 
-<script type="text/javascript" src="node_modules/web3/dist/web3.min.js"></script>  
+<script type="text/javascript" src="node_modules/web3/dist/web3.min.js"></script> 
+
 <script type="text/javascript" src="./src/index.js"></script>   
