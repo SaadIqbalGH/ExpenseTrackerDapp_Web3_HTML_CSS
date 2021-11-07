@@ -1,10 +1,13 @@
-
-
-
-
-
-
-
+### This Expense Tracker DApp can work with mulitple EOAs and keeps track of 'Balance' and 'Transaction' of each etherium account seperately.
+- To test the DApp; deploy the smart contract on Truffle Test Network >>> truffle develop (from VSCode terminal)
+- Migrate the contract and replace the contract address with that of yours in the file ExpenseTrackerDapp_Web3_HTML_CSS/dapp/js/configs/contracts_config.js
+@ 
+let EtContractAddress = "0x800205eB19bf1eF625F3E59C31A1e87198C874F8";
+- Open another terminal in VSCode and Run the lite server >> npm start in 'dapp' directory i.e. ExpenseTrackerDapp_Web3_HTML_CSS/dapp/
+- Connect the MetaMask with Truffle Network through Custom RPC by using URL: http://127.0.0.1:9545/ and Chain id: 1337
+- Import the Truffle accounts into Metamask and connect them with Truffle Network
+- Select the respective account in Metamak before entering any new transaction
+- To check the balance and transaction history rescpective ethereum account address needs to be entered
 
 ============================================================================================
 #### To install the lite server   
