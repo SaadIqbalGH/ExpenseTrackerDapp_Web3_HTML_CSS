@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+================================================================================================================
+#### To install the lite server 
 1 - create package file and inside this file type {} then save 
 2 - create index html file
 3 - npm i lite-server --save-dev 
