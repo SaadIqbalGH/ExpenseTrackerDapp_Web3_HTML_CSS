@@ -8,6 +8,7 @@ let EtContractAddress = "0x800205eB19bf1eF625F3E59C31A1e87198C874F8";
 - Import the Truffle accounts into Metamask and connect them with Truffle Network
 - Select the respective account in Metamak before entering any new transaction
 - To check the balance and transaction history rescpective ethereum account address needs to be entered
+- Note: In case if you get the nounce error after several testing attempts -- just reset the accounts in Metamask and tr again 
 
 ============================================================================================
 #### To install the lite server   
